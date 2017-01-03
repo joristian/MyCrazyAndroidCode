@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InputUI</string>
+    <string name="username">UserName</string>
+    <string name="password">password</string>
+    <string name="please_write_account">Please Write Account</string>
+    <string name="age">Age</string>
+    <string name="birthday">Birthday</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="register">Register</string>
+</resources>

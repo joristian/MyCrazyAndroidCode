@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">InputUI</string>
+    <string name="username">用户</string>
+    <string name="password">密码</string>
+    <string name="please_write_account">请输入用户名</string>
+    <string name="age">年龄</string>
+    <string name="birthday">生日</string>
+    <string name="phone_number">手机</string>
+    <string name="register">注册</string>
+</resources>

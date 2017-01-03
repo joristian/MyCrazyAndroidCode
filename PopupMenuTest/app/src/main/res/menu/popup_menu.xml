@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Search" />
+    <item android:title="ADD"
+        android:id="@+id/add"
+        android:icon="@android:drawable/ic_menu_add" />
+    <item android:id="@+id/edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Edit" >
+        <menu >
+            <item android:title="@android:string/copy"
+                android:id="@+id/copy" />
+            <item android:title="@android:string/cut"
+                android:id="@+id/cut" />
+            <item android:title="@android:string/paste"
+                android:id="@+id/paste" />
+        </menu>
+    </item>
+    <item android:title="Exit"
+        android:id="@+id/exit" />
+</menu>

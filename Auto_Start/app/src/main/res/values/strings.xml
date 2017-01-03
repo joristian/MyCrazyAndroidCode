@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto_Start</string>
+    <string name="boot_text">BootUp Application</string>
+</resources>
